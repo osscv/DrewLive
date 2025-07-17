@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://tinyurl.com/DrewLive002-epg"
-# Last forced update: 2025-07-17T13:51:02.092088Z
+# Last forced update: 2025-07-17T14:59:22.854343Z
 
 #EXTGRP: Mystique Caribbean
 #EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean", CVM (Jamaica)
@@ -7495,12 +7495,54 @@ https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 #EXTINF:-1  tvg-name="Yu-Gi-Oh!" tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" tvg-chno="4030" group-title="PlutoTV USA",Yu-Gi-Oh!
 https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
 
+#EXTGRP:PPVLand - Basketball Hub
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Celtics at Lakers
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1Yjc3NWYxZjE5NTMxLWMzNGEtZjAyNC04ZjQ2LWFiYmRhMzc2/master.m3u8?md5=Utk5yG7HgY9GMVjTK90Wew&expires=1752806185&t=1752762985
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Hawks at Grizzlies
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1M2Q1MGEyZThiNWQwLThkMzktOGQyNC03NjdiLTE1NTQ2NmI3/master.m3u8?md5=vkfQQIA-nRhbCD5FB-EOLA&expires=1752806158&t=1752762958
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Nuggets at Clippers
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MWIwZTYwOWY0NTQ3LTMzNTktZTcxNC05ODJiLTY0NjkwOGFi/master.m3u8?md5=ETLORIs0ayEJzaHJtnLWvA&expires=1752806201&t=1752763001
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Pacers at Knicks
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MmI0YTY4NDY0YTExLTY0N2ItYmVjNC04YmFlLTA2YmE0NTlk/master.m3u8?md5=aE9jYGnjQh9Q-_PnarrGSQ&expires=1752806149&t=1752762949
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Pistons at Heat
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1NWM2MjUyODhlOGNmLTI2YjgtOTY3NC0xOTkzLTk2MzI5ZDBk/master.m3u8?md5=HKBVz3lsLKGmV6Pa2xCvLQ&expires=1752806139&t=1752762939
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Rockets at Trail Blazers
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1Y2I4M2RiNDI1OTI1LThmMmEtNzZkNC0zZDQ2LTIyNTIxYjE3/master.m3u8?md5=CE_M5x0lZ0Xd-bD2RXPZgg&expires=1752806176&t=1752762976
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Spurs at Hornets
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZjBlNzZmNmRkMzU3LWE0M2EtNTU3NC05Y2MzLTY1Njg5Y2Rh/master.m3u8?md5=7wD2IX-yUCFUaxnK0NT6hw&expires=1752806168&t=1752762968
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Warriors at Raptors
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ODRhM2VmMmZhNTU2LTljNDktNmVhNC1jZDAwLTY5NDgwMDYx/master.m3u8?md5=cjiPN7FyWbqEzA2qeu3mvw&expires=1752806193&t=1752762993
+
 #EXTGRP:PPVLand - Live Channels 24/7
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",(North) Korean Central Television
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=7ATeNJ--JEqwkBI9rsG_5g&expires=1752797623&t=1752754423
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=g3ZtZ_de8ojokvbYHKqmtQ&expires=1752806282&t=1752763082
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",(North) Korean Central Television
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -7510,18 +7552,18 @@ https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=YnAY-HlTmj-rO8FMsQfD-w&expires=1752797597&t=1752754397
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=bWYd3qyXaiRiZsGbr11EeQ&expires=1752806255&t=1752763055
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 COWS
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LjljZ1MWOkRWN4IjZtcTM5gTL3ADZ00SYjNTOtQmM5M2NyAzM/master.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 Family​​​‌​‌​​​​‌‌​​‌‌‌‌​​​‌‌​‌‌​​​‌​​ Guy
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 Family​​‌‌​‌​​‌‌‌​‌​‌​​​‌​​‌‌​​‌​‌​‌​‌ Guy
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=ls6iKMoUhKsDlvoudSj0yg&expires=1752797606&t=1752754406
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 Family​​​‌​‌​​​​‌‌​​‌‌‌‌​​​‌‌​‌‌​​​‌​​ Guy
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=OD7FScaw0iZCBavQRopAMQ&expires=1752806264&t=1752763064
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 Family​​‌‌​‌​​‌‌‌​‌​‌​​​‌​​‌‌​​‌​‌​‌​‌ Guy
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
@@ -7530,7 +7572,7 @@ https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=N-sAv6Xba3Ae1qc_4STwBQ&expires=1752797588&t=1752754388
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=wF7womgND4F2qaENIaeCDw&expires=1752806246&t=1752763046
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 South Park
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -7540,7 +7582,7 @@ https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=ysZbQRziR9RhfTuH3FMWYA&expires=1752797614&t=1752754414
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=cJdtUZATuJ5ktnoIgzQPww&expires=1752806273&t=1752763073
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -7550,7 +7592,7 @@ https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=YGM8_XEdNZYw7ZfyXMCdgg&expires=1752797580&t=1752754380
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=FRQzJeeKqwqhGkfGO5GfOw&expires=1752806237&t=1752763037
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",ESPN
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -7562,12 +7604,12 @@ https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=CKBFyzgLQFPFyi-dJyedqg&expires=1752797570&t=1752754370
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=Mn8g1ntpfsVmXtZ153vMsA&expires=1752806227&t=1752763027
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" group-title="PPVLand - Wrestling Events",TNA: Impact
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=ZbV3t2ECh2laCI_Txy8WzQ&expires=1752797552&t=1752754352
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=_Xbo9Hd8RCmrveyLipAs8w&expires=1752806210&t=1752763010
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" group-title="PPVLand - Wrestling Events",TNA: Impact
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -7577,7 +7619,7 @@ https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=xmagW4tG6dBhA8hAKnXqCw&expires=1752797562&t=1752754362
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=GsU3TMb1Pu3wg-woM53j1g&expires=1752806218&t=1752763018
 
 #EXTGRP:RokuTV
 #EXTINF:-1  tvg-name="ABC7 Sarasota" tvg-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/50b18dea9c5c51568c1343fcd3d88ec9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746557592232_WWSB_EPG_Hud_LogoWWSB_HUD_logo_260x147_Centered.png" tvg-chno="4162" group-title="RokuTV",ABC7 Sarasota
@@ -9952,83 +9994,83 @@ https://jmp2.uk/sam-US270000298.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.buytommy.top/secure/wKGNngTCAf/alpha/stream/boston-red-sox-vs-tampa-bay-rays/1/playlist.m3u8
+https://rr.buytommy.top/secure/PYiBzqESJb/alpha/stream/boston-red-sox-vs-tampa-bay-rays/1/playlist.m3u8
 
 #EXTGRP:StreamEast - Basketball Hub
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="StreamEast - Basketball Hub",Atlanta Hawks vs. Memphis Grizzlies Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/b0h5fNwDKH.m3u8?st=JCjV-TYaGMUXzOMa10UyHdv3prtvYdq3g2EOdjzbgq4&e=1752770325
+https://edge1caster.pro/hls/b0h5fNwDKH.m3u8?st=R00uV3IcRHRI4Xvaf3ri_mfYhlNP2s0921UOWU6uWCk&e=1752772286
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="StreamEast - Basketball Hub",Boston Celtics vs. Los Angeles Lakers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/b0h5fNwDKH.m3u8?st=b-NuN6O6zKr6qOMDdGVFceQItZy21MTR2FV23sawODk&e=1752770341
+https://edge1caster.pro/hls/b0h5fNwDKH.m3u8?st=2EWXLAenzlQgisNSj81OV6p8C4gyFA0Mrdmf4hHsO2s&e=1752772241
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="StreamEast - Basketball Hub",Denver Nuggets vs. Los Angeles Clippers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/sqdahach1ax.m3u8?st=foCNatxCEsyjNf8kXvDNMhhCcdAp52aB4WARQ5Zh-Qc&e=1752770365
+https://edge1caster.pro/hls/sqdahach1ax.m3u8?st=7pWeG0aV6TbyYkCPyy3iQOIHmasPwSSLZKjYvo7ywlE&e=1752772272
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="StreamEast - Basketball Hub",Detroit Pistons vs. Miami Heat Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.buytommy.top/secure/IbutkRPvqb/alpha/stream/miami-heat-vs-boston-celtics/1/playlist.m3u8
+https://rr.buytommy.top/secure/HfLuHCZiMX/alpha/stream/miami-heat-vs-boston-celtics/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="StreamEast - Basketball Hub",Golden State Warriors vs. Toronto Raptors Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.buytommy.top/secure/tJRQMvkTxb/alpha/stream/denver-nuggets-vs-toronto-raptors/2/playlist.m3u8
+https://rr.buytommy.top/secure/mYmoDhGXxQ/alpha/stream/denver-nuggets-vs-toronto-raptors/2/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="StreamEast - Basketball Hub",Houston Rockets vs. Portland Trail Blazers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/griogoehvn2.m3u8?st=UC4-nbhJup9E-9UHZ_ErdF5Am8_e2jv85GyuFv1lsGg&e=1752770360
+https://edge1caster.pro/hls/griogoehvn2.m3u8?st=H-TrCOQDjKZqMN5wmRDcHK_VPDL2Mn74ohWdAQyk4D4&e=1752772300
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="StreamEast - Basketball Hub",Indiana Pacers vs. New York Knicks Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/sqdahach1ax.m3u8?st=sAi6zrGOCpyv77ahcCmYb4EfoCdtL_GUxXpjvtTQHCE&e=1752770319
+https://eastcaster.pro/hls/sqdahach1ax.m3u8?st=StLcyc7r2IExXThESTGHMcTDjjP0cCySkf-nK0-lQg8&e=1752772279
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="StreamEast - Basketball Hub",San Antonio Spurs vs. Charlotte Hornets Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/sqdahach1ax.m3u8?st=LjH02prOEyD0-Weme5MuIDZ_NnsQGfrXehXk_XK9VE4&e=1752770349
+https://eastcaster.pro/hls/sqdahach1ax.m3u8?st=3KqpIAdGY-xKitj421Z7UcV7HY0C_urTtqZLYPGp5gE&e=1752772254
 
 #EXTGRP:StreamEast - F1
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Belgian GP Free Practice 1 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.buytommy.top/secure/nyhDizZoEt/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://rr.buytommy.top/secure/vKpWzrtlij/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Belgian GP Qualifying Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.buytommy.top/secure/mfPvBjTrbv/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://rr.buytommy.top/secure/AZKSnWcHoM/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Belgian GP Race Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.buytommy.top/secure/VDoQeAkmVz/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://rr.buytommy.top/secure/oAveLkKKeH/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Belgian GP Sprint Race Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.buytommy.top/secure/akZuIQUqwh/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://rr.buytommy.top/secure/yTSnMEdrjT/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Belgian GP Sprint Shootout Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.buytommy.top/secure/KfMWHQGmKz/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://rr.buytommy.top/secure/TKJkPZwkDt/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
 
 #EXTGRP:StreamEast - MMA
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" group-title="StreamEast - MMA",UFC 318: Holloway vs Poirier 3 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.buytommy.top/secure/qeLYRFmCQM/alpha/stream/nfl-network/1/playlist.m3u8
+https://rr.buytommy.top/secure/qvmnjzNrhI/alpha/stream/nfl-network/1/playlist.m3u8
 
 #EXTGRP:TheTVApp
 #EXTINF:-1  tvg-name="A&E HD" tvg-id="ae-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" group-title="TheTVApp",A&E HD
@@ -11100,11 +11142,6 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/a652418e3b26f16de0c9e0
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/prObIniBoc7ltizEGEvUSpLstaClmlbr.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://image.discovery.indazn.com/ca/v3/ca/none/ye93od5sdksc1gk4s0qvkdcu4_image-header_pUs_1751553371000/fill/center/top/none/85/1920/1084/webp/image" ,Usyk vs. Dubois 2: Press Conference (Live Stream)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/f71b4ebd8777958b47dbe2bed88f1287.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/vice.png" ,Vice
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
