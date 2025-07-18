@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://tinyurl.com/DrewLive002-epg"
-# Last forced update: 2025-07-18T01:05:40.886348Z
+# Last forced update: 2025-07-18T03:03:35.784983Z
 
 #EXTGRP: Mystique Caribbean
 #EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean", CVM (Jamaica)
@@ -2318,7 +2318,7 @@ https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1NTVkYzFhNDNkNGI2L
 https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MWZlMDAwZTlmM2QyLWUzMGItYjVmNC0zMDhjLTViNGQ3YTRl/master.m3u8
 #EXTINF:-1 tvg-id="613759" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Logo-bein-sport-xtra-espanol-plain.png" group-title="FSTV",BeIN Sports Español Xtra
 https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZGIyMWQzMDE2MGFiLWUwNDktMzBjNC1kNjUyLTljMWEzNzFi/master.m3u8
-#EXTINF:-1 tvg-id="beIN.Sport.USA.us" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports_logo-freelogovectors.net_.png" group-title="FSTV",BeIN Sports USA
+#EXTINF:-1 tvg-id="beIN.Sport.USA.us" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m1eHN0iyOn0rawZCtwzRqk8Tbf_vd58vYuWeL36EDhbLzd=s900-c-k-c0x00ffffff-no-rj" group-title="FSTV",BeIN Sports USA
 https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1NzdiN2IwMTM2MzRmLTAwNmItNjM3NC05ZWJmLWFmZmYxNzU2/master.m3u8
 #EXTINF:-1 tvg-id="beIN.Sports.Xtra.(KSKJ-CD).Los.Angeles,.CA.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="FSTV",BeIN Sports Xtra USA
 https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1YWYzMWU2OTM4MGUwLWNjYTgtMjMxNC05YWMzLTNjYzFkMmI0/master.m3u8
@@ -2514,6 +2514,8 @@ https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZjU1MDM5ZjMzY2FjL
 https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MDYyNjQzMDkzOWYxLTg0ODktNzlmNC03MDIxLWRjNWFmZDI0/master.m3u8
 #EXTINF:-1 tvg-id="TyC.Sports.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tyc-sports-ar.png?raw=true" group-title="FSTV",TyC Sports
 https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ODI0ZTBhMTdkMjViLTM3MWEtZTVkNC0yNTc4LWU3MDM0ZGY4/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcQMJQ02os5bOdQeu-AMRXIt1xCv5azBrXZA&s" group-title="FSTV",Ufc Figh Pass
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MWEzM2Y4MDQ5ZGQ3LTMzOWItMDFkNC1jNjgzLTRjMTc3YmMy/master.m3u8
 #EXTINF:-1 tvg-id="UniMas.(KFTH).Houston,.TX.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/unimas-us.png?raw=true" group-title="FSTV",UniMás
 https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MjhmYmJlNjYzNjYwLTcwNWItMDRhNC1mMWJkLTA5NTczNTE3/master.m3u8
 #EXTINF:-1 tvg-id="UniMas.(KFTH).Houston,.TX.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/unimas-us.png?raw=true" group-title="FSTV",UniMás
@@ -10009,63 +10011,83 @@ https://jmp2.uk/sam-US270000298.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.buytommy.top/secure/vvjTbyVKrQ/alpha/stream/boston-red-sox-vs-tampa-bay-rays/1/playlist.m3u8
+https://rr.buytommy.top/secure/tpeDudoRQT/alpha/stream/boston-red-sox-vs-tampa-bay-rays/1/playlist.m3u8
 
 #EXTGRP:StreamEast - Basketball Hub
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="StreamEast - Basketball Hub",Atlanta Hawks vs. Memphis Grizzlies Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edge1caster.pro/hls/b0h5fNwDKH.m3u8?st=rplt4mFDXwrGSw4zOOBbJSa2Zwaa0b6L3FJWVo3d-g0&e=1752800937
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="StreamEast - Basketball Hub",Boston Celtics vs. Los Angeles Lakers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/b0h5fNwDKH.m3u8?st=9j03Co0IeX0bVre5rW44nYPpATwIU9mdCffU-SUtxp8&e=1752814181
+https://eastcaster.pro/hls/b0h5fNwDKH.m3u8?st=_MLptE7q4kP9YKmNYwATi8tFykSL3c9g231fVZVwZdE&e=1752800919
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="StreamEast - Basketball Hub",Denver Nuggets vs. Los Angeles Clippers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/sqdahach1ax.m3u8?st=AV6txZqNp_LXq5A5kiR9rCHzQ16MhAbFOS8Kb-whP0U&e=1752814198
+https://edge1caster.pro/hls/sqdahach1ax.m3u8?st=JLqCr_E9ESbDpio1e8UAcGj3s_MvyiHiacecvH0cN_w&e=1752800940
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="StreamEast - Basketball Hub",Detroit Pistons vs. Miami Heat Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://rr.buytommy.top/secure/WiXkSsWquE/alpha/stream/miami-heat-vs-boston-celtics/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="StreamEast - Basketball Hub",Golden State Warriors vs. Toronto Raptors Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.buytommy.top/secure/LdRezbsILG/alpha/stream/denver-nuggets-vs-toronto-raptors/2/playlist.m3u8
+https://rr.buytommy.top/secure/LbDcLIXnBD/alpha/stream/denver-nuggets-vs-toronto-raptors/2/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="StreamEast - Basketball Hub",Houston Rockets vs. Portland Trail Blazers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/griogoehvn2.m3u8?st=uxxN3Hzcn4oeE-EqoNo0GlGHP7ajDZtXGCtqfDEL0Qw&e=1752814174
+https://edge1caster.pro/hls/griogoehvn2.m3u8?st=zzAVmrDFSWZwmElCT2KQkeWwLmAvfVqZXvYgWaMiJyw&e=1752800928
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="StreamEast - Basketball Hub",Indiana Pacers vs. New York Knicks Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://eastcaster.pro/hls/sqdahach1ax.m3u8?st=qpcRgmMWsuoG5trTWc_HazgR2B3rqgQT4xu3L715zBY&e=1752800932
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="StreamEast - Basketball Hub",San Antonio Spurs vs. Charlotte Hornets Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://eastcaster.pro/hls/sqdahach1ax.m3u8?st=0-ImhJstvnj5hFLfQBClbNS9tLuwyNOX6ISVio59s2g&e=1752800948
 
 #EXTGRP:StreamEast - F1
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Belgian GP Free Practice 1 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.buytommy.top/secure/kGuqYhTKoH/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://rr.buytommy.top/secure/lTgCwMPHiA/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Belgian GP Qualifying Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.buytommy.top/secure/jANPInzdtD/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://rr.buytommy.top/secure/NoIFNmeFtP/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Belgian GP Race Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.buytommy.top/secure/zRwdjnXgRW/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://rr.buytommy.top/secure/dkVBWUVxJK/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Belgian GP Sprint Race Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.buytommy.top/secure/lxmpbPENBN/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://rr.buytommy.top/secure/QFXWzoEMcZ/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Belgian GP Sprint Shootout Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.buytommy.top/secure/yEKLVQBkhs/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://rr.buytommy.top/secure/rLLRKBAmZs/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
 
 #EXTGRP:StreamEast - MMA
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" group-title="StreamEast - MMA",UFC 318: Holloway vs Poirier 3 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.buytommy.top/secure/KrUjbdOqoi/alpha/stream/nfl-network/1/playlist.m3u8
+https://rr.buytommy.top/secure/iVajYXouMe/alpha/stream/nfl-network/1/playlist.m3u8
 
 #EXTGRP:TheTVApp
 #EXTINF:-1  tvg-name="A&E HD" tvg-id="ae-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" group-title="TheTVApp",A&E HD
@@ -10542,6 +10564,11 @@ https://v14.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8?token=VKF9r51RPNCDmhLd
 https://v3.thetvapp.to/hls/WNYWDT1/tracks-v2a1/mono.m3u8?token=N5gzlH_Yl8XKqYXO3R7BCg&expires=1752824218&user_id=dVJ0TndIVmRTNGlxa3Fpa2plNnd0RDFEckNCMUFoNVNIV2JSVjBiag==
 
 #EXTGRP:Tims247
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_inlr46ty/width/1920" ,2025 Betfred World Matchplay: Day One (Live Stream)
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/22f7053c0206919e0a59c7fc11f0a18f.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://files.catbox.moe/uat9ne.jpg" ,24/7: Bluey
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -10592,11 +10619,6 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/wffwehg9yklo7k3dmabqxi
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/220c77f52471faf24fa6d694e69bd1b1.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/bzn68j1749068487.jpg" ,Atletico Bucaramanga vs Atletico Mineiro (Live Stream)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/afdb73c451239369681c5e34207bf17a.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/u6q6zc1644521070.jpg" ,Atletico Tucuman vs Central Cordoba  (Live Stream)
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -10652,11 +10674,21 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/kD4hG2fW9pA7uN1bS8mL5y
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/88fc78da2149e0a94ff095e74e18d21d.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_15nw2m7m/width/1920" ,China ProTour 4-5 (Live Stream)
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/e42297c404daaaadaa6226364dd6e4f3.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comet-us.png?raw=true" ,Comet
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/9fa74c310c7d19017b5b0e2cd9d91b26.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/01/16/6-12-25-ASCS-1737048743595.png?impolicy=resize&w=1920&h=1080" ,Creek County Speedway (Live Stream)
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/3431dc8e49232191c10c88ee92aa775c.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/cw.png" ,CW
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -10672,6 +10704,11 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/5a322cdd04ff28608dfebb
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/29f80fe360ea09758cda99ec2eb61fd2.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2024/06/25/1719348698742_dirtzone_thumbnail.png?impolicy=resize&w=1920&h=1080" ,DIRT Zone (Live Stream)
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/8d0d988c62cc41e962aa1517b18db34c.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/03/17/1715300867054-64c720a301f24f34820b4c7143ff5bd2-1737996577673-1742219029838.webp?impolicy=resize&w=1920&h=1080" ,Dirtvision Now 24/7
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -10692,6 +10729,11 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/59a7cb5768532c91ca5720
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/d1a53d061de53b59499c1616accb42a2.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2024/12/04/7-18-25-SC-1733337442305.png?impolicy=resize&w=1920&h=1080" ,Eldora Speedway (Live Stream)
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/f8cdd009116f99148a31fc19d162177f.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/espn.png" ,ESPN
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -10722,6 +10764,11 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/oI3uC8jF6yP2bW0zQ9nA5s
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/daa62738af8bca03133c7239d4e8efc9.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=cmysm3jp5vwqds2d897p3rxqw_image-header_pDach_1751814950000&quality=70" ,Flamengo U20 vs Bayer Leverkusen (Live Stream)
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/2c6686867a010493bba024773fafbb55.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/flo.png" ,Floracing TV 24/7
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -10802,31 +10849,16 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/9772385f3a371dc4e3c6b6
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/5b0a563e58ff52f3d93914cd3130a8ea.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/6604425b83ac5.png" ,Kubota HLR Joker's Jackpot at Eldora Speedway (Floracing)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/129be9c36f3020781d58514e15763d4b.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/6604425b83ac5.png" ,Kubota HLR Joker's Jackpot at Eldora Speedway (FS1)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/j7xysrst3ytbc4h50of84mmbyrn4ba9v.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/laligatv.png" ,LaLiga TV
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/pajip6maru1rlcoz1qizebitocof4aP7.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/677da647695a9.png" ,Lucas Oil Silver Dollar Nationals at Huset's Speedway (Floracing (HD))
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/677da647695a9.png" ,Lucas Oil Silver Dollar Nationals at Huset's Speedway (Live Stream)
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/70d8c55cb0b738bee1cdba0c52c74b7e.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/677da647695a9.png" ,Lucas Oil Silver Dollar Nationals at Huset's Speedway (Floracing (SD))
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/795c1b8c0a758ff0bb25dcddea651978.m3u8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/c56ac9be631dde35cdb2f37da13c3951.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/marquee.png" ,Marquee Sports Network
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -10927,11 +10959,6 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/26f5d9d5d9c41d0a73a94b
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fY2pQ8uB5zJ1wN6aL3sC7mX0vR9dHi.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/q9toqu1745579582.jpg" ,Remo vs Novorizontin (Live Stream)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/9bf00bfaed2ae14a0ffcb094d52b3497.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://image.discovery.indazn.com/ca/v3/ca/none/rdwily2iuijl1hj3lb39dsta0_image-header_pUs_1751905569000/fill/none/top/none/85/1920/1084/webp/image" ,Rodriguez vs. Cafu (Live Stream)
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -10942,11 +10969,6 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/a6a7abd88acccbb852e6b0
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/2a7eaf4fb1c2ddb9c95a735f546aad14.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/lnxc0q1752730021.jpg" ,ROH: HonorClub #125 (Live Stream)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/4e71ca50a9f55572c68f0e2060e0b918.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skysportnz.png" ,Sky Sport 1 NZ
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -11087,16 +11109,21 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/41a8afa7c52405ebe2214d
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/e58f21ced67b9c60a2efb749565b235c.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/668d6ed1ed062.png" ,Southern Nationals at Senoia Raceway (Live Stream)
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://ntvb.tmsimg.com/assets/p29593827_b_h8_aa.jpg?w=1280&h=720" ,Spain W vs Switzerland W (Live Stream)
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/da812ceebb4c2e655ce8582b545b8cd7.m3u8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/o282ztvzyz2nv82nowu477d4zriul8ji.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/ss1.png" ,SpeedSport 1
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/51e085aaa7ebf58356e360dec7553390.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2024/11/19/7-18-25-XOM-1732048834620.png?impolicy=resize&w=1920&h=1080" ,Spoon River Speedway (Live Stream)
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/0d438c6d8b7671d45df496ce01557a4b.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tbs.png" ,TBS
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -11122,11 +11149,6 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/2ebb7ff87d15c6e15add0f
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/e6fa4d3c2a431f1064d905bf9752579c.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://pbs.twimg.com/media/GwEpC8pWUAQk96j.jpg" ,TNA: Impact (AXS BROADCAST) (Live Stream)
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/3271469af3414e0e303060c2251484c8.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://www.trillertv.com/thumbs/vf/2phcn/tna_slammiversary2025_1920x1080/tna-slammiversary-2025-1600x900fit.webp" ,TNA: Slammiversary 2025 (Live Stream)
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -11237,11 +11259,21 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/41c6b2ddcb449e80e441a6
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/d32d1e89796bc0ee8bf1a216bb3fa2ae.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/01/09/7-18-25-WG-1736447435753.png?impolicy=resize&w=1920&h=1080" ,Williams Grove Speedway (Live Stream)
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/a842edb8c824e277675386e754204307.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/willow.png" ,Willow Cricket
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/f7dc5cb51217cf8eda81bc5a822a1548.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://climatepledgearena.com/wp-content/uploads/2025/01/25-WWE-SmackDwon_Web_1600x900.jpg" ,WWE: Friday Night SmackDown (Live Stream)
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/bd00a582894159a69d1fa422e2ea4730.m3u8
 
 #EXTGRP:TubiTV
 #EXTINF:-1  tvg-id="400000096" tvg-logo="https://canvas-lb.tubitv.com/opts/pQpb4BualR6eug==/f96dfd36-d049-4c63-ae07-410f192f18b6/CHgQeDoFMS4xLjdAAQ==" group-title="TubiTV",A&E Crime 360
