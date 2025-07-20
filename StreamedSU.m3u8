@@ -1,9 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",Los Angeles Chargers vs. Detroit Lions (English - HD)
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1M2YxZTYwYWMzOWYxLTgxMzktOTUwNC1hNzZiLTFiYmE2NDY0/master.m3u8?md5=ht8-ya5M4eykxZK6-IAJUQ&expires=1753055866&t=1753012666
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",UFC Fight Night: Whittaker vs de Ridder (English - HD)
-https://rr.strmd.top/secure/LXhBxdspre/charlie/stream/the-ultimate-fighter-33-team-cormier-vs-team-sonnen-episode-9-1629451653/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",Ryan Garner vs Reece Bellotti (English - HD)
-https://rr.strmd.top/secure/LXhBxdspre/charlie/stream/the-ultimate-fighter-33-team-cormier-vs-team-sonnen-episode-9-1629451653/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBuaEIno4cDXiAiXbIYABNhHEI5DZsMa9-eNX7u7MkuQsIEIQrAz8MMB4unRgLPKRkkK08eRgScCREUA.webp" group-title="StreamedSU - Basketball",WNBA: Indiana Fever vs New York Liberty (English - HD)
+https://rr.strmd.top/secure/jkFxaVmKzL/charlie/stream/indiana-fever-vs-new-york-liberty-1629451641/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",Seattle Storm vs Dallas Wings (English - HD)
+https://rr.strmd.top/secure/jkFxaVmKzL/charlie/stream/indiana-fever-vs-new-york-liberty-1629451641/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBuaEBBAgxAEzIhyiIUI68Qtay1shLLziGZfmZjAMnji+ocxOZmwEQXi6dGAs8hCcrFjAceRgicApQhBAA.webp" group-title="StreamedSU - Basketball",WNBA: Atlanta Dream vs Las Vegas Aces (English - HD)
+https://rr.strmd.top/secure/HOtEahqGET/charlie/stream/atlanta-dream-vs-las-vegas-aces-1629451648/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIIiBQhsy+uQYBjZuJ7wRVbgS6swYXPmtA.webp" group-title="StreamedSU - Football",Meppen II vs SSV Jeddeloh (English - HD)
+https://rr.strmd.top/secure/HOtEahqGET/charlie/stream/atlanta-dream-vs-las-vegas-aces-1629451648/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1EgQKOiHpgQ3EABM16kDAMg+RtfoIUmfDWzBl4ReaI1NaYJ2NEQgA.webp" group-title="StreamedSU - Football",Hartlepool United vs Rangers B ( - HD)
+https://rr.strmd.top/secure/GkQWzuPUYI/echo/stream/fc-st-pauli-vs-karlsruher-sc-football-1403551/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",Indycar 2025 - GP of Madison (English - HD)
+https://rr.strmd.top/secure/MXAtLFYiUX/delta/stream/live-event_motogp-2025-czechia-gp-live-stream/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",Kenshiro Teraji vs Ricardo Rafael Sandoval (English - HD)
-https://rr.strmd.top/secure/LXhBxdspre/charlie/stream/the-ultimate-fighter-33-team-cormier-vs-team-sonnen-episode-9-1629451653/1/playlist.m3u8
+https://rr.strmd.top/secure/JiYtigYYUB/charlie/stream/the-ultimate-fighter-33-team-cormier-vs-team-sonnen-episode-9-1629451653/1/playlist.m3u8
