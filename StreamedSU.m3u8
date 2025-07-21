@@ -1,13 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",Grizzlies at Clippers (Consolation) (English - HD)
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LxIGMlZDM5YGN1QzNtMzM1kTLldTM00SO4IjYtYDN2kDM4EmY/master.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",Kings at Hornets (Championship) (English - HD)
 https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LmBTZ3YjZ2QGZzUzNtEGNzEWL1UzN00SOjN2MtYTN2gTOjRWY/master.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBuaEIno4cDXiAiXbIYABNhHEI5DZsMa9-eNX7u7MkuQsIEIQrAz8MMB4unRgLPKRkkK08eRgScCREUA.webp" group-title="StreamedSU - Basketball",WNBA: Indiana Fever vs New York Liberty (English - HD)
-https://rr.strmd.top/secure/cWTrquEPnW/charlie/stream/indiana-fever-vs-new-york-liberty-1629451641/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",Seattle Storm vs Dallas Wings (English - HD)
+https://rr.strmd.top/secure/ObgeaYcuFD/charlie/stream/indiana-fever-vs-new-york-liberty-1629451641/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBuaEBBAgxAEzIhyiIUI68Qtay1shLLziGZfmZjAMnji+ocxOZmwEQXi6dGAs8hCcrFjAceRgicApQhBAA.webp" group-title="StreamedSU - Basketball",WNBA: Atlanta Dream vs Las Vegas Aces (English - HD)
-https://rr.strmd.top/secure/iUVRFoiWxA/charlie/stream/atlanta-dream-vs-las-vegas-aces-1629451648/1/playlist.m3u8
+https://rr.strmd.top/secure/FhtdXnOFgg/charlie/stream/atlanta-dream-vs-las-vegas-aces-1629451648/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",Los Angeles Chargers vs. Detroit Lions (English - HD)
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1M2YxZTYwYWMzOWYxLTgxMzktOTUwNC1hNzZiLTFiYmE2NDY0/master.m3u8?md5=Ntd48pYhs5IPoeFZwVJLZQ&expires=1753104900&t=1753061700
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1M2YxZTYwYWMzOWYxLTgxMzktOTUwNC1hNzZiLTFiYmE2NDY0/master.m3u8?md5=o_nDKlIGFOWhyMsK4kZDBQ&expires=1753113382&t=1753070182
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",Indycar 2025 - Indianapolis 500 (English - HD)
+https://rr.strmd.top/secure/sooNVmvlNu/delta/stream/live-event_nascar-cup-series-2025-dover-live-stream/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",UFC Fight Night: Whittaker vs de Ridder (English - HD)
-https://rr.strmd.top/secure/JoEtohaFIz/charlie/stream/uae-warriors-61-1629451662/1/playlist.m3u8
+https://rr.strmd.top/secure/AzffgWktde/charlie/stream/uae-warriors-61-1629451662/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",Claressa Shields vs Lani Daniels (English - HD)
+https://rr.strmd.top/secure/AzffgWktde/charlie/stream/uae-warriors-61-1629451662/1/playlist.m3u8
