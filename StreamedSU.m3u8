@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBuaEBBAgxAEzIhyiIUI68Qtay1shLLziGZfmZjAMnji+ocxOZmwEQXi6dGAs8hCcrFjAceRgicApQhBAA.webp" group-title="StreamedSU - Basketball",Dream at Lynx (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MDlmNmIyZDdmOWZhLTkwOTgtZGIwNC1hODYzLTRmYjAyOTQ0/master.m3u8?md5=l2j1h0X-phy8WPrlZv0qnw&expires=1753708990&t=1753665790
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuAQxQVmAKYKzD7zASl7DlrDCYrqSHb3BjB0DGXCm+ACYd0IAiBgTm5WmACcrBXSzyKmSkQh4S+binZgi8FgoINSNDoYqsIQA.webp" group-title="StreamedSU - American Football",Los Angeles Chargers vs. Detroit Lions (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1M2YxZTYwYWMzOWYxLTgxMzktOTUwNC1hNzZiLTFiYmE2NDY0/master.m3u8?md5=AIEYirtZGv1AV14z5Vsp0Q&expires=1753709798&t=1753666598
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tS5StQSQGC2vEwy6VSnkzsm6BUMbBulFiAAmIUxBDZyp0+UQhnZXq4Nu7IDiEK-LAdhCiMxmwNZ8BDDAeLp0YCzyEJysWDFiYAnhqRBAA.webp" group-title="StreamedSU - Baseball",New York Mets vs. San Francisco Giants (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LzImMhFDO4EmZ2YTOtQWZwkTLhdDN00iMygTNtUGNyAjM0UTN/master.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",World Rally Championship 2025 - Rally Finland (English - SD)
-https://rr.strmd.top/secure/GfBGwpwYof/alpha/stream/sky-sports-f1-sky-f1/2/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",NASCAR Xfinity Series 2025 - Iowa (English - SD)
-https://rr.strmd.top/secure/GfBGwpwYof/alpha/stream/sky-sports-f1-sky-f1/2/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",World Matchplay Darts  🎯 ( - HD)
-https://rr.strmd.top/secure/WWkAsOFZEh/echo/stream/ppv-event-03-ira-sprints-angell-par-ppv-03/1/playlist.m3u8
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1M2YxZTYwYWMzOWYxLTgxMzktOTUwNC1hNzZiLTFiYmE2NDY0/master.m3u8?md5=PmtK_DeZQQyK4y24sMxZag&expires=1753718475&t=1753675275
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",Indycar 2025 - Indianapolis 500 (English - HD)
+https://rr.strmd.top/secure/DhkdsZitED/delta/stream/live-event_nascar-cup-series-2025-indianapolis-live-stream/1/playlist.m3u8
