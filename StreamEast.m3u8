@@ -1,217 +1,865 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Vancouver Whitecaps vs. Sporting Kansas City Live Stream
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 1 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ15/index.m3u8?st=BJreQevmj7ui_NvUiwCodg&e=1753600060
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=9_g8ukyLMogrmWtxYn1ZYg&e=1753777869
 
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Belgian GP Race Live Stream
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",LAFC vs. Mazatlán FC Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.strmd.top/secure/ougCtsMaXf/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=WFUwGGp6Gpt1Z6X6PzgWPg&e=1753777880
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Seattle Mariners vs. Los Angeles Angels Live Stream
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Qualifying Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/hfzljfahzcax29.m3u8?st=XPxgsPeyA2KJoXjOl6rsrU5aCAnnS2LozvNU2avflkA&e=1753600086
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=byaihIqQCpqJv3fy9-xhfQ&e=1753777897
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Vancouver Whitecaps vs. Sporting Kansas City Live Stream
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Race Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ15/index.m3u8?st=JNJHrEUNlbTXRGJoU_UiRg&e=1753600099
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=WjDlx5dKvH1n3DXMPEpqhA&e=1753777906
 
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Belgian GP Race Live Stream
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",CF Montréal vs. León Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.strmd.top/secure/iVPWAaQAKJ/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=cN5sPLlEHe8rFG0Gimbnvw&e=1753777915
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Seattle Mariners vs. Los Angeles Angels Live Stream
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 3 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/hfzljfahzcax29.m3u8?st=BN5KRwIz74sdQSY7QonpEQRjgkPp7j8pQn2JM_q5Q8I&e=1753600116
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=fL6iltJH4JEQK-ejqA8cKg&e=1753777923
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Vancouver Whitecaps vs. Sporting Kansas City Live Stream
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" group-title="StreamEast - MMA",UFC Fight Night: Albazi vs. Taira Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ15/index.m3u8?st=2vq1iG6Le9_uGdCgiUPUpg&e=1753600129
+https://nextcast.click/hls/HDGQ21/index.m3u8?st=EVhqWiy5OmaVcEZhVEIRhg&e=1753777933
 
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Belgian GP Race Live Stream
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Tigres UANL vs. Houston Dynamo FC Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.strmd.top/secure/uhgKlJOAhR/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=gKIdUPiOghiO3LCjuuZoCw&e=1753777943
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Seattle Mariners vs. Los Angeles Angels Live Stream
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 2 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/hfzljfahzcax29.m3u8?st=XnWNEi87b1iKYk315wl04q2SoiQwnDr_fwVFQMJdAHQ&e=1753600147
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=o9BALayK7KcCqrRjI-Rcaw&e=1753777951
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Vancouver Whitecaps vs. Sporting Kansas City Live Stream
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Toluca vs. Columbus Crew Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ15/index.m3u8?st=AkPO-bXVgfslXGPrZXcf4A&e=1753600161
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=I2Y2MUb_WP4vF5QyLQtVnA&e=1753777961
 
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Belgian GP Race Live Stream
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Pachuca vs. San Diego FC Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.strmd.top/secure/aPFeFprtZY/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=WGE0lXKB0tB1VPvlIqGUzw&e=1753777969
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Seattle Mariners vs. Los Angeles Angels Live Stream
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",New York City FC vs. Puebla Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/hfzljfahzcax29.m3u8?st=iYrAiXIsP60XCXtoEwlCv8ZsxOaOU9KN-RXH3dOHP_g&e=1753600179
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=gfvDtX91PblY_uf32A8ApQ&e=1753777978
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Vancouver Whitecaps vs. Sporting Kansas City Live Stream
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Qualifying Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ15/index.m3u8?st=ekjE0e-UxfhC_IEhIeCuXg&e=1753600192
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=G2SiTq6xHAi6lUeRfN16OA&e=1753777989
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Seattle Mariners vs. Los Angeles Angels Live Stream
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Tigres UANL vs. Houston Dynamo FC Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/hfzljfahzcax29.m3u8?st=8DDW2XDmbTe4YVdAomrYf4EUvRq1F0pM59bPfT8rAJc&e=1753600202
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=NaJi30KYdeOPKyHACF3YCA&e=1753777997
 
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Belgian GP Race Live Stream
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Pachuca vs. San Diego FC Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.strmd.top/secure/qkLtMOkphL/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=atshjd4vy87HhiwwFQHDUQ&e=1753778005
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Seattle Mariners vs. Los Angeles Angels Live Stream
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",LAFC vs. Mazatlán FC Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/hfzljfahzcax29.m3u8?st=M-1TFsQXXicNPsNr5uxatP-JuuWsLRYsZN2mGs2AORM&e=1753600222
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=h6gx3RujoSVG6oqKw4xLHg&e=1753778013
 
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Belgian GP Race Live Stream
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 2 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.strmd.top/secure/YdeBDorozc/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=_JV5hCiiBBtQpaZDxol8sQ&e=1753778020
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Vancouver Whitecaps vs. Sporting Kansas City Live Stream
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 1 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ15/index.m3u8?st=-GwTHX93J_Pdqz8MYyqTPw&e=1753600240
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=k0zeOVEZg4RZUmEGeC7xfg&e=1753778026
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Vancouver Whitecaps vs. Sporting Kansas City Live Stream
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",New York City FC vs. Puebla Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ15/index.m3u8?st=b9jg_C4nIWG-eoFURkH4gg&e=1753600259
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=ayCOig-Iva9e-ciB24zfYw&e=1753778034
 
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Belgian GP Race Live Stream
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",CF Montréal vs. León Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.strmd.top/secure/rlhuCNjFTc/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=ZCiooqSeUk3CF2qIL2mzbA&e=1753778042
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Seattle Mariners vs. Los Angeles Angels Live Stream
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 3 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/hfzljfahzcax29.m3u8?st=LB8gwF6t85LuA-h2cVvbt9RBWoEPzveWXk8iGHvGL3s&e=1753600279
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=t5clRdZ3q-Tr6WMVg8duvg&e=1753778048
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Vancouver Whitecaps vs. Sporting Kansas City Live Stream
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" group-title="StreamEast - MMA",UFC Fight Night: Albazi vs. Taira Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ15/index.m3u8?st=-XuYGPm7EefQc4B78bZtqA&e=1753600293
+https://nextcast.click/hls/HDGQ21/index.m3u8?st=A0digOufnjJXxB4v4NwvCg&e=1753778056
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Seattle Mariners vs. Los Angeles Angels Live Stream
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Toluca vs. Columbus Crew Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/hfzljfahzcax29.m3u8?st=sqZsxzDSnOQzSAj88eUp4CfGZQx-2JI7twlIAsl6ii0&e=1753600303
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=x7wZu7WfaDKA0NJG6jcNRA&e=1753778064
 
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Belgian GP Race Live Stream
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Race Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.strmd.top/secure/CQkceXQRnl/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=MPnwYIhypLWCP31DJjOJ9g&e=1753778072
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Seattle Mariners vs. Los Angeles Angels Live Stream
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",LAFC vs. Mazatlán FC Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/hfzljfahzcax29.m3u8?st=2BL08CPxBZh3J6EpXVUaH4Iuo8DAigiAZsmHIUAC5WU&e=1753600323
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=7RVNuPz66JH2m1Ty7TNKUw&e=1753778084
 
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Belgian GP Race Live Stream
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",New York City FC vs. Puebla Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.strmd.top/secure/YAsqOelxAs/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=hPj1Zytiq1P3bdPkriIuDg&e=1753778092
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Vancouver Whitecaps vs. Sporting Kansas City Live Stream
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Pachuca vs. San Diego FC Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ15/index.m3u8?st=ZhBBfIrIGf5VlFrK-WQsXw&e=1753600341
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=FXcQH3kNJ0z7sJITNKhjkA&e=1753778101
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Seattle Mariners vs. Los Angeles Angels Live Stream
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Tigres UANL vs. Houston Dynamo FC Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/hfzljfahzcax29.m3u8?st=-qqG1umhhoskBZr3kjPcV2dR3_gRdyyPXN-7e23p408&e=1753600354
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=h6Y4g0io7EStGnrAHqCv2Q&e=1753778111
 
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Belgian GP Race Live Stream
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 3 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.strmd.top/secure/amqjmTyoAJ/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=sYQeeiT9BhTLQAd8UWatHw&e=1753778119
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Vancouver Whitecaps vs. Sporting Kansas City Live Stream
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 2 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ15/index.m3u8?st=iIQwGO2UAiHo808AW5NFxA&e=1753600371
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=3EYj4_ztslW1B7GmfCnhXA&e=1753778127
 
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Belgian GP Race Live Stream
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Toluca vs. Columbus Crew Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.strmd.top/secure/jNLrnsbtIs/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=2yv96uysEb3q1tpUytanHg&e=1753778136
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Seattle Mariners vs. Los Angeles Angels Live Stream
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Race Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/hfzljfahzcax29.m3u8?st=P-HxTU9CtgJShynJfMeNLStxqzt-w8fJOJMrRsnHddY&e=1753600393
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=ssY3nmjc9Dkg5ntk5OR1Dw&e=1753778145
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Vancouver Whitecaps vs. Sporting Kansas City Live Stream
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Qualifying Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ15/index.m3u8?st=u0YkCDa0OppBE-uwnt7hpQ&e=1753600401
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=A8c7orP164nb6TDFdffWyg&e=1753778153
 
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Belgian GP Race Live Stream
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 1 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://rr.strmd.top/secure/spEmDPFEtO/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=EDhDgWCmpCvxxWMbkws9OQ&e=1753778161
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Seattle Mariners vs. Los Angeles Angels Live Stream
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",CF Montréal vs. León Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/hfzljfahzcax29.m3u8?st=kAvSPU86U39LzdeV0bKA_il7pZteya5hsu_gHUrVuU8&e=1753600424
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=FtNG9ZjQOmYplJ2uVMTwkw&e=1753778171
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Vancouver Whitecaps vs. Sporting Kansas City Live Stream
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" group-title="StreamEast - MMA",UFC Fight Night: Albazi vs. Taira Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ15/index.m3u8?st=S2ityts4egCmkmnjmxOomQ&e=1753600432
+https://nextcast.click/hls/HDGQ21/index.m3u8?st=aZ77mVdntdwFNexsBAoNKg&e=1753778180
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 1 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=d9cbxII1zAw9vHxJ_0YWpw&e=1753778193
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Pachuca vs. San Diego FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=3OdMV2rbntKZmK88UaMUCQ&e=1753778203
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",LAFC vs. Mazatlán FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=fmLZR_3vbluVKR7rIwmO1w&e=1753778214
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",CF Montréal vs. León Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=6-ex_d_HwUg9zIm4JDa36g&e=1753778224
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Qualifying Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=BmMSNwgthYq9znYYUeRr0w&e=1753778233
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Toluca vs. Columbus Crew Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=MftGG2LbOH0TcNF4xBovqA&e=1753778242
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Tigres UANL vs. Houston Dynamo FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=dhFovFDG4y3HKRnoOjELdg&e=1753778252
+
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" group-title="StreamEast - MMA",UFC Fight Night: Albazi vs. Taira Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ21/index.m3u8?st=o8t54GpUO6lYJOJC_f_7KA&e=1753778263
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",New York City FC vs. Puebla Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=GceA0qMtjpqyarmiUs3u6w&e=1753778273
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 2 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=oKMZLKijbUMpXNZr2qeNTA&e=1753778282
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 3 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=hCXXWMuRm6CsC7TfqpTj_Q&e=1753778291
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Race Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=3RP8sJyPLgHAUdsBKw44EA&e=1753778300
+
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" group-title="StreamEast - MMA",UFC Fight Night: Albazi vs. Taira Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ21/index.m3u8?st=l3VtTu8DZUOHAwqtzPEtrg&e=1753778315
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Qualifying Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=na-mDUudZmg0conoF8LR9w&e=1753778325
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Race Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=xRLlBU1PGse8I_TJvtoEHQ&e=1753778334
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 2 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=ur-p3pXBUeCW0vTHFmZ4wg&e=1753778344
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 3 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=_OlyRsSz8uFbutblIzzVOg&e=1753778353
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Pachuca vs. San Diego FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=z0JbSRG_kAcH7EXMHWDQHA&e=1753778365
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",New York City FC vs. Puebla Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=RK0TZ57wu1E5lCfS2p7qtQ&e=1753778377
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Tigres UANL vs. Houston Dynamo FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=6nXDQn9q2e_FumFrIfFurw&e=1753778389
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",LAFC vs. Mazatlán FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=iyyanvzi2jRrwp9NbmBI6A&e=1753778402
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Toluca vs. Columbus Crew Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=1TW6gwOKtpHI62_IoF3ZoQ&e=1753778418
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 1 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=cNf8r7dQzJJYmEvYur4Hhg&e=1753778431
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",CF Montréal vs. León Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=vBsKokiCKJ_FekUUBr1O7g&e=1753778443
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 3 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=6BekQR8lZCZ3iUFm8d5_7A&e=1753778461
+
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" group-title="StreamEast - MMA",UFC Fight Night: Albazi vs. Taira Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ21/index.m3u8?st=wcTQzp32rG3awguYhD6PsA&e=1753778476
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Toluca vs. Columbus Crew Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=7yqvk7AiKBgox210nmVwJw&e=1753778491
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",CF Montréal vs. León Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=0AW0e_pkqwqjoP1LAkhy-w&e=1753778504
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Pachuca vs. San Diego FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=FGa3ERbKIiNu81u4FUiB1A&e=1753778521
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Tigres UANL vs. Houston Dynamo FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=RuJ0t7mUdi_TiQLKsTju9w&e=1753778535
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",LAFC vs. Mazatlán FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=392QYqQnTrJMumjDGnkfIQ&e=1753778550
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Qualifying Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=hHAByapj2ajsiz6ijoPX2Q&e=1753778566
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Race Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=4BwK2ks36lZjD_WlQ8rALA&e=1753778576
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",New York City FC vs. Puebla Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=s7DAiZFWSUukk_5bKaJAvw&e=1753778591
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 2 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=z56P0uiONE-ZGuuJFFpybA&e=1753778608
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 1 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=WD5RGDHuKAVfHq6dIIb7EQ&e=1753778620
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Toluca vs. Columbus Crew Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=pyOudwwxJCVNCzqcnfE0aw&e=1753778642
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",CF Montréal vs. León Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=jmld_MOCsYl17xqKIQLGbA&e=1753778656
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Tigres UANL vs. Houston Dynamo FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=E2QudqysKVoqXJHazbApwA&e=1753778670
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Race Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=FoGox231l0ufao-lHAyg4w&e=1753778688
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",New York City FC vs. Puebla Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=7iPniFPxwIOML66KLVVApQ&e=1753778700
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 2 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=3LdQEXQLoIgv-LhLyXqgYA&e=1753778716
+
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" group-title="StreamEast - MMA",UFC Fight Night: Albazi vs. Taira Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ21/index.m3u8?st=U2Kq_JBTWvqqMgxzWSCZmA&e=1753778737
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 3 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=f7L8_M1FVx3lPKGutejfxg&e=1753778756
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",LAFC vs. Mazatlán FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=pZV-aR9ghehOWuPm-YgCaw&e=1753778783
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 1 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=HusHrOFoHWtwcElVV6ZLFw&e=1753778796
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Pachuca vs. San Diego FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=rmhB7s0Ze5UjuiPfROMOaQ&e=1753778809
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Qualifying Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=wn8CtwOum5lugKb-XxAg6A&e=1753778826
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",New York City FC vs. Puebla Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=i-rNpjuxBDsdzK2dlsrDag&e=1753778844
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",CF Montréal vs. León Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=cdfZzhdCOyFLnfkCXPIsWQ&e=1753778871
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Toluca vs. Columbus Crew Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=zohSMEiCh8FE615h-FVCAQ&e=1753778892
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Tigres UANL vs. Houston Dynamo FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=HAveFZZ6idHa4aePZ3qh7g&e=1753778911
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 3 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=vqrv90lqCjGEZ5GbdyahyQ&e=1753778926
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Pachuca vs. San Diego FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=apvFIPzPFWSejESmi5wgxg&e=1753778939
+
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" group-title="StreamEast - MMA",UFC Fight Night: Albazi vs. Taira Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ21/index.m3u8?st=Iad_VbmjbiJt4AgPClYXtw&e=1753778959
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Qualifying Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=UIXP2O2NKBNYqmCLF5UX8A&e=1753778973
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Race Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=kwVtgbiiiAEFougYKcC6nQ&e=1753779000
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",LAFC vs. Mazatlán FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=-ColZkGjVzR1SyCO4GWKHg&e=1753779025
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 2 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=iVN5KOuYcdbq7ALiDK7ZFg&e=1753779046
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 1 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=dhzd-b9Ehu0r-xf9lTFt7A&e=1753779074
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",LAFC vs. Mazatlán FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=omm_nD2zOdGInNRW8lPT9Q&e=1753779096
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Race Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=9rrra8g6YZ31kysZnapI-w&e=1753779113
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",New York City FC vs. Puebla Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=JF9I7hAMEwdUNGXva0AnOA&e=1753779127
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Qualifying Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=B6dJIpWarP_EDMPiiMu2zw&e=1753779141
+
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" group-title="StreamEast - MMA",UFC Fight Night: Albazi vs. Taira Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ21/index.m3u8?st=2FX1W0P6ESTCbrMhbWoPVg&e=1753779165
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 3 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=6NxVFMg49BDepq8QMtB31w&e=1753779181
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Toluca vs. Columbus Crew Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=7b_uwl3Mt0eSOTbGU3dfhQ&e=1753779203
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Pachuca vs. San Diego FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=Fqh61SeND2vhiEUf05gQbA&e=1753779220
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",CF Montréal vs. León Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=AvnWxCcqHXL3doVh913qZw&e=1753779250
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Tigres UANL vs. Houston Dynamo FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=O2VUn7PCtUvlSyVrRLIQkA&e=1753779269
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 1 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=4MHQtLz3xUfLjqDlfx2wnw&e=1753779287
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 2 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=yKJlPRGmNMBqPvc4rhP9-g&e=1753779324
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Race Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=Lt95x-IDJ_T6-GHJHroLnw&e=1753779348
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 2 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=A5jyme-vlA5fOWRaxVEy6w&e=1753779365
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Tigres UANL vs. Houston Dynamo FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=CdOeF5_kAvVgOO65Qnl8IQ&e=1753779379
+
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" group-title="StreamEast - MMA",UFC Fight Night: Albazi vs. Taira Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ21/index.m3u8?st=U4UYMhVHegyp484393wSvQ&e=1753779392
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Toluca vs. Columbus Crew Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=YgFOF4U-W9pDGDkXDQuaVA&e=1753779405
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 3 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=FdCfprfRzpp-lJuT5CUmSw&e=1753779426
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",LAFC vs. Mazatlán FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=s25c7gCPdmpUdMGLnd7IUQ&e=1753779440
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Pachuca vs. San Diego FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=DFRUZFkhtmsLJqjm-CP4fA&e=1753779453
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",New York City FC vs. Puebla Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=KhNTVTNNi1ByeqjJDUJQZg&e=1753779473
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 1 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=zsQVZP3zmyV_enQLXm29Fw&e=1753779488
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",CF Montréal vs. León Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=E_IfGoms9JEIhmBbQpMqWg&e=1753779509
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Qualifying Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=rt2YXTZSQP3xH7UOdOZF6w&e=1753779543
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 2 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=tsX1xSJXX8pXZ3EvPoxBcw&e=1753779566
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",CF Montréal vs. León Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=k9y3M2FYzmkZf_NdohgoXw&e=1753779584
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Tigres UANL vs. Houston Dynamo FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=yn52GNVFjAXxDAj2c6rj7g&e=1753779596
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",New York City FC vs. Puebla Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=EXbmdciggtSydiC0w2fB4A&e=1753779636
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Race Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=uIKQNX6H8sMI6fsVL0dREQ&e=1753779656
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Pachuca vs. San Diego FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=32EyfCv_Vmd7H4VE8D0Z2A&e=1753779673
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Toluca vs. Columbus Crew Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=V4J565vOHuttoCaNhOGNVg&e=1753779694
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 3 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=xwna0N520jSz96a-QP7mjw&e=1753779711
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Qualifying Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=nBQsHvsKStGEWzeRhUtUnA&e=1753779731
+
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" group-title="StreamEast - MMA",UFC Fight Night: Albazi vs. Taira Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ21/index.m3u8?st=icLamolRkN0FuD-HbpCSQg&e=1753779748
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 1 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=LmcGbAy-nVKRQtuoRB269A&e=1753779766
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",LAFC vs. Mazatlán FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=cBM80ex44jecSbd_yjzteA&e=1753779781
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",CF Montréal vs. León Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=SViJTtdY_s6huMP9zTxXww&e=1753779805
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 1 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=rf4yHx7cRFhiEqSyh9zySA&e=1753779834
+
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" group-title="StreamEast - MMA",UFC Fight Night: Albazi vs. Taira Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ21/index.m3u8?st=zumiHUWlP43fASeb2KMfFw&e=1753779852
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 3 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=fYjrdnH4OC3yC7Q2M5IJaw&e=1753779873
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",LAFC vs. Mazatlán FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=45uV4ycF7XZyod6l3MuPIA&e=1753779899
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Tigres UANL vs. Houston Dynamo FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=bC-5dPiE-xFcTcjBTLhgSw&e=1753779920
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Pachuca vs. San Diego FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=ajh5Uhd5yYi9QDD8UJiAGw&e=1753779947
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Qualifying Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=fh4dllwITI12UvNNjy-12w&e=1753779976
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 2 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=a9Gz60aKrSXmYyl5QO0BvA&e=1753779998
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Toluca vs. Columbus Crew Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=jSYfsoZBqMBOGbpcSKX8gA&e=1753780025
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Race Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=pJz88ps10b3sOxyAbvAkhg&e=1753780048
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",New York City FC vs. Puebla Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=hoq15hejXBPYKFL-ybZqnw&e=1753780066
 
